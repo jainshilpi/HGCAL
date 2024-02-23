@@ -1,0 +1,14 @@
+<use name="DataFormats/TrackReco"/>
+<use name="FWCore/Framework"/>
+<use name="FWCore/ParameterSet"/>
+<use name="FWCore/PluginManager"/>
+<use name="DataFormats/ForwardDetId"/>
+<use name="DataFormats/HGCRecHit"/>
+<use name="DataFormats/HGCalReco"/>
+<use name="Geometry/CaloGeometry"/>
+<use name="DataFormats/GeometryVector"/> 
+<use name="Geometry/Records"/> 
+<use name="FWCore/ServiceRegistry"/>
+<use name="CommonTools/UtilAlgos"/>
+<use name="root"/>
+<flags EDM_PLUGIN="1"/>
